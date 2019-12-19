@@ -2,7 +2,7 @@ import React from 'react';
 
 import classes from './BuildControls.css';
 import BuildControl from './BuildControl/BuildControl';
-import { type } from 'os';
+
 
 const controls = [
     {label: 'Salad', type: 'salad'},
@@ -10,7 +10,7 @@ const controls = [
     {label: 'Cheese', type: 'cheese'},
     {label: 'Meat', type: 'meat'}
 ]
-console.log(type);
+// console.log(type);
 const buildControls = (props) => (
     
     <div className={classes.BuildControls}>
