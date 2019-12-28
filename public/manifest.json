@@ -1,6 +1,6 @@
 {
-  "short_name": "Burger Builder App",
-  "name": "React tutorial course project App",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",
